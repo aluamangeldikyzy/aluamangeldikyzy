@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **aluamangeldikyzy/aluamangeldikyzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
